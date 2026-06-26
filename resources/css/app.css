@@ -7,3 +7,9 @@
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
+@theme {
+    /* Using standard hex definitions—Tailwind v4 automatically handles the /opacity channel for these! */
+    --color-school-navy: #0D3B52;
+    --color-school-sky: #5BB8D4;
+    --color-school-gold: #C9A84C;
+}
