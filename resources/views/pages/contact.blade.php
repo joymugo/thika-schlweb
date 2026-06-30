@@ -21,8 +21,8 @@
 
             <div class="social-links">
                 <a href="#" target="_blank" title="Facebook"><ion-icon name="logo-facebook"></ion-icon></a>
-                <a href="#" target="_blank" title="Twitter"><ion-icon name="logo-twitter"></ion-icon></a>
-                <a href="#" target="_blank" title="Instagram"><ion-icon name="logo-instagram"></ion-icon></a>
+                <a href="#" target="_blank" title="Tiktok"><ion-icon name="logo-tiktok">https://www.tiktok.com/discover/thika-girls-karibarini</ion-icon></a>
+                <a href="#" target="_blank" title="Instagram"><ion-icon name="logo-instagram">https://www.instagram.com/explore/locations/244919649576287/thika-girls-karibaribi/recent/</ion-icon></a>
                 <a href="#" target="_blank" title="Linkedin"><ion-icon name="logo-linkedin"></ion-icon></a>
             </div>
 
